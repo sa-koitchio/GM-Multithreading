@@ -1,3 +1,24 @@
-﻿pch.obj : error LNK2005: _isEven ist bereits in dllmain.obj definiert.
-     Bibliothek "E:\gmdll\gmrpc\Debug\gmrpc.lib" und Objekt "E:\gmdll\gmrpc\Debug\gmrpc.exp" werden erstellt.
-E:\gmdll\gmrpc\Debug\gmrpc.dll : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.
+﻿  pch.cpp
+  dllmain.cpp
+E:\gmdll\basemod\dllmain.cpp(85,40): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(87,15): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(89,12): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(91,18): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(92,11): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(93,24): warning C4244: "Argument": Konvertierung von "double" in "const _Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=uint32_t
+          ]
+E:\gmdll\basemod\dllmain.cpp(104,40): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(106,15): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(108,12): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(110,18): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(111,11): warning C4244: "Argument": Konvertierung von "double" in "const unsigned int", möglicher Datenverlust
+E:\gmdll\basemod\dllmain.cpp(112,24): warning C4244: "Argument": Konvertierung von "double" in "const _Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=uint32_t
+          ]
+     Bibliothek "E:\gmdll\basemod\Debug\gmrpc.lib" und Objekt "E:\gmdll\basemod\Debug\gmrpc.exp" werden erstellt.
+  gmrpc.vcxproj -> E:\gmdll\basemod\Debug\gmrpc.dll

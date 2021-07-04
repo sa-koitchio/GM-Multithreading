@@ -1,0 +1,4 @@
+E:\gmdll\gmrpc\Debug\gmrpc.dll
+E:\gmdll\gmrpc\Debug\gmrpc.pdb
+E:\gmdll\basemod\Debug\gmrpc.dll
+E:\gmdll\basemod\Debug\gmrpc.pdb

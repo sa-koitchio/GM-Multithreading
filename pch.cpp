@@ -17,16 +17,3 @@ GMEXPORT double isEven(int n)
 	}
 
 }
-
-GMEXPORT double APIexample(int n)
-{
-	if (n < 0)
-	{
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-
-}

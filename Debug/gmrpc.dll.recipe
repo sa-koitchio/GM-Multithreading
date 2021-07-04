@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\gmdll\gmrpc\Debug\gmrpc.dll</FullPath>
+      <FullPath>E:\gmdll\basemod\Debug\gmrpc.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

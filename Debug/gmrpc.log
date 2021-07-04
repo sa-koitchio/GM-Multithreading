@@ -1,0 +1,3 @@
+﻿pch.obj : error LNK2005: _isEven ist bereits in dllmain.obj definiert.
+     Bibliothek "E:\gmdll\gmrpc\Debug\gmrpc.lib" und Objekt "E:\gmdll\gmrpc\Debug\gmrpc.exp" werden erstellt.
+E:\gmdll\gmrpc\Debug\gmrpc.dll : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.
